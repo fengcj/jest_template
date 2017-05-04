@@ -1,5 +1,5 @@
 TN:
-SF:/Users/fcj/work/github/learn_for_jest/subtract.js
+SF:/Users/fcj/work/github/jest_template/subtract.js
 FN:1,subtract
 FNF:1
 FNH:0
@@ -13,7 +13,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/fcj/work/github/learn_for_jest/sum.js
+SF:/Users/fcj/work/github/jest_template/sum.js
 FN:1,sum
 FNF:1
 FNH:1
@@ -26,7 +26,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/fcj/work/github/learn_for_jest/sum_es6.js
+SF:/Users/fcj/work/github/jest_template/sum_es6.js
 FN:1,sum
 FNF:1
 FNH:1
